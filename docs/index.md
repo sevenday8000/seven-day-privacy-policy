@@ -1,37 +1,92 @@
-## Welcome to GitHub Pages
+## プライバシーポリシー
 
-You can use the [editor on GitHub](https://github.com/sevenday8000/seven-day-privacy-policy/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### ■個人情報の収集
+本アプリは、広告配信のためにGoogle 広告、Google AdMob、利用状況解析のためにGoogle Firebase Analyticsを使用しています
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ■広告について
+本アプリでは、広告配信を目的として以下の広告配信事業者がご利用者の情報を自動取得する場合がございます。取得する情報、利用目的、第三者への提供等につきましては、以下の広告配信事業者のアプリケーション・プライバシーポリシーのリンクよりご確認ください。
 
-### Markdown
+AdMob（Google Inc.）
+http://www.google.com/intl/ja/policies/technologies/ads/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Google 広告に関するポリシー
+https://policies.google.com/technologies/ads?hl=ja
 
-```markdown
-Syntax highlighted code block
+### ■利用状況解析ついて
+本アプリでは、今後の開発の参考とするため、アプリの利用状況データを収集するツールとしてFirebase(Google Inc.)を使用しており、Firebaseがご利用者の情報を自動取得する場合がございます。取得する情報、利用目的、第三者への提供等につきましては、以下のGoogleプライバシーポリシーのリンクよりご確認ください。
 
-# Header 1
-## Header 2
-### Header 3
+Google プライバシーポリシー
+https://policies.google.com/privacy?hl=ja
+ 
+## Privacy Policy
 
-- Bulleted
-- List
+seven day built the CherryCocktailGlass app as a Free app. This SERVICE is provided by seven day at no cost and is intended for use as is.
 
-1. Numbered
-2. List
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-**Bold** and _Italic_ and `Code` text
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-[Link](url) and ![Image](src)
-```
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at CherryCocktailGlass unless otherwise defined in this Privacy Policy.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Information Collection and Use
 
-### Jekyll Themes
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Collection of personal information,Ad delivery,Usage analysis. The information that I request will be retained on your device and is not collected by me in any way.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sevenday8000/seven-day-privacy-policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The app does use third party services that may collect information used to identify you.
 
-### Support or Contact
+Link to privacy policy of third party service providers used by the app
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
+
+Google Play Services
+https://policies.google.com/privacy
+
+AdMob
+https://support.google.com/admob/answer/6128543?hl=en
+
+Firebase Analytics
+https://firebase.google.com/policies/analytics
+
+ 
+
+Log Data
+
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+
+Cookies
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+
+Service Providers
+
+I may employ third-party companies and individuals due to the following reasons:
+
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+Security
+
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Children’s Privacy
+
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+
+Changes to This Privacy Policy
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+Contact Us
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at tkymx83@gmail.com.
+
+ 
